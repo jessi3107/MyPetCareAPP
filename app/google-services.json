@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "977342619735",
+    "firebase_url": "https://mypetcareapp-fe6b5.firebaseio.com",
+    "project_id": "mypetcareapp-fe6b5",
+    "storage_bucket": "mypetcareapp-fe6b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977342619735:android:232d15d3f803f51b8fc312",
+        "android_client_info": {
+          "package_name": "com.example.mypetcareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977342619735-f55h81e76bbjah4kjkdp642ia9ko4sr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOM2g7Qpj0aswWx4aFi8D5sS30i8cCb6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977342619735-f55h81e76bbjah4kjkdp642ia9ko4sr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
